@@ -15,6 +15,7 @@ int main(){
 	tree.insertNode(3);
 	tree.insertNode(12);
 	tree.insertNode(9);
+	tree.insertNode(7); // -> for two children of '8'
 	cout << endl;
 	
 	// traversing the binary tree
