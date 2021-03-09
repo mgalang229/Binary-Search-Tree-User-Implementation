@@ -15,3 +15,5 @@
 ![](delete1.png)
 ### Delete'12'
 ![](delete2.png)
+### Deletion of a Node with Two Children '8'
+![](two_child.png)
