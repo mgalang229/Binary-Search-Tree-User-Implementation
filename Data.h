@@ -2,7 +2,7 @@
 #define DATA_H
 
 class IntBinaryTree {
-	public:
+	private:
 		struct TreeNode {
 			int value;
 			TreeNode *left;
